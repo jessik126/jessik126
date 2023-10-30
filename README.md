@@ -38,6 +38,30 @@ About me:
   <img style="filter: invert(12%) sepia(75%) saturate(6411%) hue-rotate(269deg) brightness(104%) contrast(136%);" align="center" alt="MsSql" height="30" width="40" color="red" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
 
+##
+
+### Medium Posts
+[![Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=jessik126&type=horizontal)](https://medium.com/@jessik126)
+
+
+##
+<table align="center">
+  <tr>
+    <th> Visitor count </th>
+    <th> Dev Joke</th>
+  </tr>
+  <tr>
+    <td> <img src="https://profile-counter.glitch.me/jessik126/count.svg" /> </td>
+    <td> <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </td>
+  </tr>
+</table>
+
+<!--
+Fonts:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+https://github.com/harshalrj25/mediumblog-cards 
+-->
 
 <!--
 **jessik126/jessik126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
